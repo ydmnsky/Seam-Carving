@@ -104,7 +104,7 @@ open class ImageWithEnergy (img:BufferedImage) {
         return seam
     }
     private var img = image
-    fun redVerticalSeam(): BufferedImage {
+    private fun redVerticalSeam(): BufferedImage {
         val image = img
         val seam = findVerticalSeam(sumMatrix)
         for (y in seam.indices) {
