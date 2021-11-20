@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Seam Carving/task" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing a red square" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing four circles" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing three strings" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing two lines" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Cart" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/House inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Properties accessors/City population" />
+            <option value="$PROJECT_DIR$/Topics/Properties accessors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Properties accessors/Weather comparison" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Barista problem" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Frozen desserts" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fractional part" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Heron's formula" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/National assembly" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Closed case" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Duplication" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
